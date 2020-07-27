@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuberSample", "KuberSample.csproj", "{79C55C36-D1A2-40EA-999E-D5C31018905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C55C36-D1A2-40EA-999E-D5C31018905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C55C36-D1A2-40EA-999E-D5C31018905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C55C36-D1A2-40EA-999E-D5C31018905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C55C36-D1A2-40EA-999E-D5C31018905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCC8C1F-FA25-4A04-B0F4-00397F568176}
+	EndGlobalSection
+EndGlobal
